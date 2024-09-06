@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(142, 68, 19);
+    background-image: url(https://i.ytimg.com/vi/DPqiIzK97K0/maxresdefault.jpg);
+    margin: 2px;
+}
+div{
+    background-color: rgba(198, 203, 217, 0.722);
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 150px;
+    padding: 10px;
+    height: 550px;
+    font
+}
